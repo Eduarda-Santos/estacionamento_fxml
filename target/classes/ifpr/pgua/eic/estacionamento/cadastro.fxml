@@ -23,8 +23,7 @@
     <Label text="Modelo"/>
     <TextField fx:id="tfModelo"/>
 
-    <Label text="Fabricante"/>
-    <TextField fx:id="tfFabricante"/>
+    <ComboBox> fx:id="cdbFabricante"</ComboBox>
 
     <Label text="Cor"/>
     <TextField fx:id="tfCor"/>
